@@ -1,2 +1,4 @@
-0 search/6 SCHOOL School data
-!:mime School
+0 string SCHOOL School data
+!:mime application/octet-stream
+0 string SCHOOL School data
+!:mime Shool data
