@@ -1,0 +1,2 @@
+#!/bin/bash 
+cp school.mgc /tmp/magic
